@@ -6,6 +6,7 @@ export default function About() {
       <p>
         This application contains snippets from various Codecademy articles. You can browse all our articles and read them in their entirety <a href="https://www.codecademy.com/articles">here</a>.
       </p>
+      <h1>Hello, world! By Innis</h1>
     </main>
   );
 }
